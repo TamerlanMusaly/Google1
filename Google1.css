@@ -1,0 +1,41 @@
+*{
+   margin: 0; 
+   box-sizing: border-box;
+}
+.img{
+    margin-top: 200px;
+    margin-left: 600px;
+}
+input{
+    margin-left: 610px;
+    border-radius: 20px;
+    width: 300px;
+    height: 35px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+}
+.button{
+    color: beige;
+    background-color: green;
+}
+.img1{
+    margin-left: 580px;
+}
+.button1{
+    margin-left: 625px;
+    background-color: red;
+    color: white;
+}
+.img2{
+    margin-left: 580px;
+    width: 200px;
+    height: 200px;
+}
+.button2{
+    margin-left: 625px;
+    background: linear-gradient(blue,red,rgb(230, 230, 0),green);
+}
